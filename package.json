@@ -1,12 +1,12 @@
 {
-  "name": "estudo_node",
+  "name": "api-rest-ecommerce",
   "version": "0.0.1",
   "description": "uma pequena aplicacao para estudo em nodejs",
   "main": "index.js",
   "type":"module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Victor Terra",
   "license": "ISC",
