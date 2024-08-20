@@ -1,5 +1,5 @@
 
-# Primeira API 
+# API Rest - Ecommerce
 
 Este é meu primeiro de uma API básica criada com o framework Express.js. Ela simula uma pequena aplicação de e-commerce que gerencia produtos e exibe informações através de rotas HTTP.
 
